@@ -48,7 +48,7 @@ nav a:hover {
 .hero {
   position: relative;
   height: 60vh;
-  min-height: 700px;
+  min-height: 45rem;
   display: flex;
   align-items: center;
   justify-content: center;
